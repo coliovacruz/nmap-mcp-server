@@ -24,7 +24,7 @@ Um servidor MCP (Model Context Protocol) para integração do NMAP com Claude De
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/nmap-mcp-server.git
+git clone https://github.com/coliovacruz/nmap-mcp-server.git
 cd nmap-mcp-server
 ```
 
